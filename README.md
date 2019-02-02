@@ -8,7 +8,7 @@ Originally copied from here: https://github.com/ccrisan/motioneyeos/issues/1557#
 
 # Installation:
 - Create a Discord webhook. See [here](https://discordapp.com/developers/docs/resources/webhook)
-- Save this file as **/data/etc/notify-discord.py** on your MotionEyeOS device
+- Save [notify-discord.py](notify-discord.py) as **/data/etc/notify-discord.py** on your MotionEyeOS device
 - Add the example command below in the MotionEyeOS UI under: **Settings > File Storage > Run A Command**
 
 # Example Command:
